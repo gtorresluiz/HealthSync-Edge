@@ -3,4 +3,4 @@
 
 ArduinoJson
 EspMQTTClient
-DHT22
+DHT sensor library
